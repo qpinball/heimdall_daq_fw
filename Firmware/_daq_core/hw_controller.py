@@ -235,7 +235,7 @@ class HWC():
         # Find the device
         self.mrf.findmorfeus()
 
-        self.mrf.setFreq(1000)
+        self.mrf.setFreq(1268.520)
         t.sleep(1)
         mrf.genMode()
         t.sleep(1)
