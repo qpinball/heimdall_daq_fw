@@ -16,3 +16,7 @@ Firmware/_testing/__pycache__/*
 Firmware/_testing/test_logs/*.log
 Firmware/_testing/test_logs/*.html
 Firmware/__pycache__/*
+
+# Third-party RTL-SDR headers (copied during build)
+Firmware/_daq_core/rtl-sdr.h
+Firmware/_daq_core/rtl-sdr_export.h
